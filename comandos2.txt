@@ -1,0 +1,40 @@
+  485  cd ..
+  486  cd ..
+  487  cd users/jpala
+  488  mkdir informes
+  489  cd informes
+  490  touch informeAnual.xls
+  491  ls
+  492  mkdir auditoria
+  493  touch auditoria.xls
+  494  touch reporteConsolidado.xls
+  495  ls -R
+  496  mv auditoria.xls auditoria/auditoria.xls
+  497  cd auditoria
+  498  ls -R
+  499  mkdir dh
+  500  mkdir dh/repaso_clase_1y2
+  501  mkdir dh
+  502  mkdir dh/repaso_clase_1y2
+  503  mkdir dh/repaso_clase_1y2/historia_de_la_contabilidad
+  504  mkdir dh/repaso_clase_1y2/servidores
+  505  mkdir dh/repaso_clase_1y2/interfaces_de_usuario
+  506  mkdir dh/repaso_clase_1y2/que_haremos_hoy
+  507  mkdir dh/repaso_clase_1y2/que_haremos_hoy/infraestructura
+  508  mkdir dh/repaso_clase_1y2/infraestructura
+  509  rm dir dh/repaso_clase_1y2/que_haremos_hoy/infraestructura
+  510  rmdir dh/repaso_clase_1y2/que_haremos_hoy/infraestructura
+  511  touch dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt
+  512  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/servidores/
+  513  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/interfaces_de_usuario/
+  514  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/que_haremos_hoy/
+  515  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/infraestructura/
+  516  cd dh
+  517  ls -R
+  518  history > comandos.txt
+  519  mv repaso_clase_1y2/historia_de_la_contabilidad repaso_clase_1y2/histtoria_de_la_informatica
+  520  mv repaso_clase_1y2/histtoria_de_la_informatica repaso_clase_1y2/historia_de_la_informatica
+  521  mv repaso_clase_1y2/que_haremos_hoy repaso_clase_1y2/software_y_hardware
+  522  mv repaso_clase_1y2/infraestructura repaso_clase_1y2/git_bash_y_vscode
+  523  ls -R
+  524  history > comandos2.txt

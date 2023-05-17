@@ -1,0 +1,500 @@
+   19  git status
+   20  git pull
+   21  git log
+   22  git log --oneline --graph
+   23  cd coloquio
+   24  git status
+   25  git status
+   26  git flow
+   27  git flow log
+   28  git flow feature
+   29  git flow feature start invitaciones
+   30  git status
+   31  git add .
+   32  git status
+   33  git commit -m "commit inicial invitaciones"
+   34  git status
+   35  git status
+   36  git status
+   37  git add .
+   38  git commit -m "Genera tablas"
+   39  git status
+   40  git checkout develop
+   41  git checkout feature/invitaciones
+   42  git status
+   43  git status
+   44  git commit -am "Cambio genera tablas"
+   45  git status
+   46  git status
+   47  git add modulos/administrador/ver_archivo.ash
+   48  git add modulos/administrador/ver_archivo.ashx
+   49  git status
+   50  git commit -am "Ver archivo"
+   51  git status
+   52  git log --oneline --graph
+   53  cd coloquio
+   54  git status
+   55  cd coloquio
+   56  git staus
+   57  git status
+   58  commit status
+   59  git status
+   60  git commit -am "Trae evaluadores"
+   61  git status
+   62  git status
+   63  git commit -am "Checkbox funcionando"
+   64  git status
+   65  git commit -am "Confirm"
+   66  cd coloquio
+   67  cd coloquio
+   68  git log
+   69  git log --oneline --graph
+   70  git branch
+   71  git flow finish feature_invitaciones
+   72  git flow finish invitaciones
+   73  git branch
+   74  git push origin --all
+   75  git status
+   76  cd coloquio
+   77  git status
+   78  git flow --help
+   79  git flow start feature fixes200123
+   80  git flow bugfix help
+   81  git flow bugfix start fixes200123
+   82  git status
+   83  git status
+   84  git status
+   85  cd D:\Usuarios\jpala\Descargas (D)\Coloquio\coloquio-GF
+   86  D:\Usuarios\jpala\"Descargas (D)"\Coloquio\coloquio-GF
+   87  cd ..
+   88  cd ..
+   89  cd ..
+   90  cd D:\Usuarios\jpala\"Descargas (D)"\Coloquio\coloquio-GF
+   91  cd D\Usuarios\jpala\"Descargas (D)"\Coloquio\coloquio-GF
+   92  cd D/Usuarios/jpala/"Descargas (D)"/Coloquio/coloquio-GF
+   93  git pull
+   94  git status
+   95  git status
+   96  git add .
+   97  git status
+   98  git pull
+   99  git status
+  100  git commit -m "Actualizo a fcav"
+  101  git status
+  102  git pull
+  103  git status
+  104  git git commit
+  105  git commit
+  106  git status
+  107  git push 
+  108  git status
+  109  cd coloquio
+  110  git status
+  111  git checkout develop
+  112  git status
+  113  git checkout bugfix/fixes200123
+  114  git status
+  115  git checkout develop
+  116  git checkout bugfix/fixes200123
+  117  git stash
+  118  git status
+  119  git checkout develop
+  120  git status
+  121  git pull
+  122  git branch
+  123  git checkout bugfix/fixes200123
+  124  git stash pop list
+  125  git stash list
+  126  git stash pop
+  127  git stash list
+  128  git status
+  129  git status
+  130  git commit -am "cambios diseño ponencias"
+  131  git flow help
+  132  git flow bugfix help
+  133  git flow bugfix
+  134  git flow bugfix finish 
+  135  git status
+  136  git status
+  137  cd coloquio
+  138  git status
+  139  cd coloquio
+  140  git branch
+  141  git status
+  142  git flow
+  143  git flow feature help
+  144  git flow feature start navbar
+  145  git status
+  146  git commit -am "cambios de diseño"
+  147  git status
+  148  git push --all
+  149  cd ..
+  150  cd ..
+  151  cd ..
+  152  cd d
+  153  lib
+  154  dir
+  155  cd jpala
+  156  dir
+  157  cd ..
+  158  cd usuarios
+  159  dir
+  160  cd jpala
+  161  cd "descargas (d)"
+  162  dir
+  163  cd coloquio
+  164  cd coloquio-gf
+  165  git status
+  166  git status
+  167  git status
+  168  git commit -am "Actualizo a fcav"
+  169  git status
+  170  git add .
+  171  git status
+  172  git commit -m "Nuevos archivos"
+  173  git status
+  174  git push --all
+  175  git status
+  176  git pull --all
+  177  git status
+  178  git push --all
+  179  git status
+  180  cd coloquio
+  181  git pull --all
+  182  git checkout develop
+  183  git pull --all
+  184  git status
+  185  git pull --all
+  186  git status
+  187  git branch
+  188  git checkout feature/navbar
+  189  git checkout develop
+  190  git status
+  191  git checkout feature/navbar
+  192  git flow feature finish feature/navbar
+  193  git flow feature 
+  194  git flow feature help
+  195  git flow feature finish navbar
+  196  git status
+  197  git add .
+  198  git commit -m "Resuelvo conflicto merging"
+  199  git status
+  200  git branch
+  201  git flow feature finish navbar
+  202  git branch
+  203  git status
+  204  git feature start invitaciones
+  205  git flow feature start invitaciones2
+  206  git branch
+  207  cd coloquio
+  208  cd coloquio
+  209  git status
+  210  cd coloqui
+  211  cd coloquio
+  212  git status
+  213  git add .
+  214  git status
+  215  git commit -m "Autocomplete"
+  216  git status
+  217  cd coloquio
+  218  git status
+  219  git commit -am "Mandar invitación"
+  220  git status
+  221  cd coloquio
+  222  git status
+  223  git commit -am "jQAC - Sin resultados"
+  224  cd coloquio
+  225  git status
+  226  git commit -am "Retira invitacion"
+  227  cd coloquio
+  228  git status
+  229  git commit -am "por ediciones"
+  230  cd coloquio
+  231  git status
+  232  git push --all
+  233  cd coloquio
+  234  git statuus
+  235  git status
+  236  git status
+  237  git status
+  238  git branch
+  239  git add . 
+  240  git status
+  241  git commit -m "Actualizo a fcav"
+  242  git push --all
+  243  git pull
+  244  git status
+  245  git push --all
+  246  git status
+  247  cd coloquio
+  248  git status
+  249  git branch
+  250  git status
+  251  git branch develop
+  252  git checkout develop
+  253  git status
+  254  git status
+  255  git pull --all
+  256  git status
+  257  git checkout
+  258  git branch
+  259  git checkout feature/invitaciones2
+  260  git flow feature finish invitaciones2
+  261  git flow feature finish invitaciones2
+  262  git flow feature finish invitaciones2
+  263  git branch
+  264  git status
+  265  git status
+  266  git flow start feature qualImp
+  267  git flow feature start qualImp
+  268  git status
+  269  git status
+  270  git status
+  271  cd coloqui
+  272  cd coloquio
+  273  git status
+  274  git commit -am "Menu evaluador"
+  275  git status
+  276  cd coloquio
+  277  git status
+  278  git commit -am "ver ponencia (evaluador)"
+  279  git status
+  280  git commit -am "Ver ponencia (evaluador)"
+  281  git status
+  282  git status
+  283  git commit -am "botones de pills"
+  284  git status 
+  285  git commit -am "problema (', ")"
+  286  git commit -am "problema de comillas"
+  287  git status
+  288  git status 
+  289  git commit -am "Ediciones arreglado"
+  290  git status
+  291  git push --all
+  292  git status
+  293  cd coloquio
+  294  git flow feature finish qualImp
+  295  git status
+  296  cd coloquio
+  297  git push --all
+  298  git status
+  299  git commit -am "Actualizo a fcav"
+  300  git status
+  301  git pull
+  302  git pull
+  303  git status
+  304  git commit -m "resuelvo conflictos"
+  305  git status
+  306  git push --all
+  307  git status
+  308  cd coloquio
+  309  git status
+  310  git pull
+  311  git status
+  312  cd coloquio
+  313  git status
+  314  git flow feature start evaluacion
+  315  git status
+  316  git status
+  317  git status
+  318  git commit -am "Botones responsivos"
+  319  cd coloquio
+  320  git status
+  321  git status
+  322  git commit -am "evaluacion (antigüo)"
+  323  git status
+  324  git status
+  325  git commit -am "Actualizo a fcav"
+  326  git status
+  327  git pull}
+  328  git pull --all
+  329  git push
+  330  git status
+  331  cd coloquio
+  332  git status
+  333  git status
+  334  git pull
+  335  git checkout develop
+  336  git pull
+  337  git checkout evaluacion
+  338  git checkout feature/evaluacion
+  339  git flow feature finish evaluacion
+  340  git flow feature finish evaluacion
+  341  git flow feature finish evaluacion
+  342  git status
+  343  git commit -am "corrijo conflictos"
+  344  git status
+  345  git branch
+  346  git flow feature finish evaluacion
+  347  git status
+  348  cd coloquio
+  349  git status
+  350  git pull
+  351  cd coloquio
+  352  git status
+  353  git flow feature start evaluaciones
+  354  git status
+  355  git status
+  356  cd coloquio
+  357  git status
+  358  git commit -am "Evaluación lista"
+  359  git status
+  360  git status
+  361  cd coloquio
+  362  git status
+  363  git commit -am "Mostrar evaluacion"
+  364  git status
+  365  cd coloquio
+  366  git status
+  367  git commit -am "comentarios"
+  368  git status
+  369  cd coloqui
+  370  cd coloquio
+  371  git status
+  372  git status
+  373  git status
+  374  git commit -am "Arreglos varios"
+  375  git status
+  376  git push --all
+  377  git status
+  378  git flow init
+  379  git branch
+  380  git flow release start 1.0
+  381  git status
+  382  git add .
+  383  git commit -m "Primer commit"
+  384  git status
+  385  git flow release finish 1.0
+  386  git remote add origin https://github.com/JuanPalaceto/SIECE.git
+  387  git push -u origin --all
+  388  git push origin 1.0
+  389  git status
+  390  cd siece
+  391  git branch
+  392  git flow feature start egel
+  393  cd siece
+  394  cd siece
+  395  git status
+  396  git checkout develop
+  397  git branch
+  398  git flow feature start seminario
+  399  git branch
+  400  git checkout feature/egel
+  401  git status
+  402  git commit -am "Histórico"
+  403  git status
+  404  git checkout feature/seminario
+  405  git status
+  406  cd siece
+  407  git status
+  408  cd siece
+  409  git status
+  410  git commit -am "trae datos"
+  411  cd siece
+  412  git status
+  413  git commit -am "trae datos v.2"
+  414  cd siece
+  415  git status
+  416  git commit -am "Seminario v.2"
+  417  git status
+  418  cd siece
+  419  git status
+  420  git checkout feature/egel
+  421  git status
+  422  git checkout seminario
+  423  git checkout feature/seminario
+  424  cd siece
+  425  git status
+  426  cd siece
+  427  git status
+  428  git commit -am "modulos v. 2.5"
+  429  git commit -am "modulos v. 2.6"
+  430  git checkout develop
+  431  git branch
+  432  git push --all
+  433  git flow init
+  434  git feature
+  435  git flow
+  436  git flow feature help
+  437  git status
+  438  git add .
+  439  git status
+  440  git commit -m "primer commit"
+  441  git status
+  442  git remote add origin https://github.com/JuanPalaceto/mobiliario.git
+  443  git push -u origin main
+  444  git push --all
+  445  git flow feature help
+  446  git flow feature start catalogos
+  447  git branch
+  448  git status
+  449  cd mob
+  450  git status
+  451  cd mob
+  452  git status
+  453  git add .
+  454  git status
+  455  git commit -m "4 catalogos"
+  456  git status
+  457  git feature help
+  458  git feature
+  459  git flow help
+  460  git flow feature finish
+  461  git status
+  462  git push --all
+  463  cd mob
+  464  branch
+  465  git branch
+  466  git flow feature start catalogos
+  467  git branch
+  468  cd mob
+  469  git status
+  470  git commit -am "catalogos finales"
+  471  git status
+  472  cd mob
+  473  git status
+  474  cdd mob
+  475  cd mob
+  476  git status
+  477  git add .
+  478  git status
+  479  git commit -m "catalogos nuevos"
+  480  git status
+  481  git flow feature finish catalogos
+  482  git status
+  483  git push --all
+  484  git status
+  485  cd ..
+  486  cd ..
+  487  cd users/jpala
+  488  mkdir informes
+  489  cd informes
+  490  touch informeAnual.xls
+  491  ls
+  492  mkdir auditoria
+  493  touch auditoria.xls
+  494  touch reporteConsolidado.xls
+  495  ls -R
+  496  mv auditoria.xls auditoria/auditoria.xls
+  497  cd auditoria
+  498  ls -R
+  499  mkdir dh
+  500  mkdir dh/repaso_clase_1y2
+  501  mkdir dh
+  502  mkdir dh/repaso_clase_1y2
+  503  mkdir dh/repaso_clase_1y2/historia_de_la_contabilidad
+  504  mkdir dh/repaso_clase_1y2/servidores
+  505  mkdir dh/repaso_clase_1y2/interfaces_de_usuario
+  506  mkdir dh/repaso_clase_1y2/que_haremos_hoy
+  507  mkdir dh/repaso_clase_1y2/que_haremos_hoy/infraestructura
+  508  mkdir dh/repaso_clase_1y2/infraestructura
+  509  rm dir dh/repaso_clase_1y2/que_haremos_hoy/infraestructura
+  510  rmdir dh/repaso_clase_1y2/que_haremos_hoy/infraestructura
+  511  touch dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt
+  512  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/servidores/
+  513  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/interfaces_de_usuario/
+  514  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/que_haremos_hoy/
+  515  cp dh/repaso_clase_1y2/historia_de_la_contabilidad/repaso.txt dh/repaso_clase_1y2/infraestructura/
+  516  cd dh
+  517  ls -R
+  518  history > comandos.txt
